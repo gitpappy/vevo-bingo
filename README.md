@@ -14,3 +14,5 @@ Drinking game for Vevo TV. 2 - 4 players.
 * Rum and Coke
 
 ![Screenshot](https://raw.githubusercontent.com/gitpappy/vevo-bingo/screenshot/vevo-bingo.png)
+
+Demo: https://vevo.alexpapworth.co.uk/
